@@ -57,7 +57,7 @@ ui <- dashboardPage(skin = "blue",
             #menuItem("Dados", icon = icon("database"),
                      #href = "http://floripadadosabertos.univille.br/"),
             menuItem("Código-fonte", icon = icon("code"), 
-                     href = "https://github.com/lpgarcia18/lista_de_pacientes_ap"),
+                     href = "https://github.com/analisededadosemsaudefloripa/sala_situacao_custos.git"),
             menuItem("Licença de Uso", icon = icon("cc"), 
                      href = "https://github.com/analisededadosemsaudefloripa/sala_situacao_custos/blob/master/LICENSE")
           )
